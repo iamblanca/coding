@@ -1,4 +1,4 @@
-## Git Commands
+## Git Basic Commands
 
 ### Clone the Repository
 Clone the remote repository to your local machine (one-time setup):
